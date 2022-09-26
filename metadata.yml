@@ -3,3 +3,6 @@ date: 2022-09-23
 slug: "hierarchical-models-2"
 source: "post--hierarchical-models-2"
 math: true
+other_files:
+  - 'NGC6819-DSS-r.fits'
+  - 'NGC6819-gaiadr3.fits.gz'
