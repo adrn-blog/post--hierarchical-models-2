@@ -1,0 +1,13 @@
+notebook
+jupyter
+ipykernel
+nbconvert
+numpy
+scipy
+matplotlib
+astropy
+pymc>=4.2.0
+arviz
+daft
+graphviz
+pyia
